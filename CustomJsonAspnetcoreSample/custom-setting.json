@@ -1,0 +1,11 @@
+{
+  "SampleConfig": {
+    "ApplicationName": "Custom JSON Console Sample",
+    "IsEnabled": true,
+    "RetryCount": 3,
+    "Api": {
+      "BaseUrl": "https://example.local/api",
+      "TimeoutSeconds": 30
+    }
+  }
+}
